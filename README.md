@@ -62,7 +62,7 @@ NOTE: simple-resource-name is left up to you. E.g. dog, cat, whatever...
  * (Prove that you got the JSON from the POST)
 * `PUT` request
  * pass `?id=<uuid>` as a query string parameter to identify a specific resource
-  * pass data as stringifed JSON in the body of a **POST** request 
+  * pass data as stringifed JSON in the body of a **PUT** request 
   * return a 200 response with the JSON as the content
   * (Prove that you got the JSON from the PUT)
 * `GET` request
