@@ -51,7 +51,7 @@ Configure the root of your repository with the following files and directories. 
 * create a router constructor that handles requests to `GET`, `POST`, `PUT`, and `DELETE` using the custom routes defined
 
 ## Server Endpoints
-### `/api/vi/simple-resource-name`
+### `/api/v1/simple-resource-name`
 **These will be "proof of life" endpoints, to prove server health**
 
 NOTE: simple-resource-name is left up to you. E.g. dog, cat, whatever...
