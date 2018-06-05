@@ -35,7 +35,7 @@ Configure the root of your repository with the following files and directories. 
 
 ## Learning Objectives  
 * students will learn to use promise constructs to manage asynchronous code
-* students will learn to create a vanilla RESTful API with in-memory persistence
+* students will learn to create a vanilla RESTful API
 
 #### Feature Tasks
 * create the following directories to organize your code:
