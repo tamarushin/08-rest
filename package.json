@@ -1,5 +1,5 @@
 {
-  "name": "06-tcp-server",
+  "name": "08-rest",
   "version": "1.0.0",
   "description": "![cf](https://i.imgur.com/7v5ASc8.png) Lab 06: TCP Chat Server ======",
   "main": "index.js",
@@ -20,7 +20,9 @@
   },
   "homepage": "https://github.com/tamarushin/06-tcp-server#readme",
   "dependencies": {
+    "dotenv": "^6.0.0",
     "eslint": "^4.19.1",
-    "jest": "^23.1.0"
+    "jest": "^23.1.0",
+    "superagent": "^3.8.3"
   }
 }

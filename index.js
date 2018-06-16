@@ -3,7 +3,7 @@
 
 // 3rd Party Library
 //utilize the env file or what PORT to go to.
-const dotenv = require('dotenv').config();
+require('dotenv').config();
 
 // Local Library
 const server = require('./src/app.js');
