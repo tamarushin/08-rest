@@ -55,7 +55,7 @@ router.route = (req, res) => {
       }
     })
     // Otherwise, bug out with an error
-    .catch(err => {
+    .catch(err => { //eslint-disable-line
       console.error('NOT_FOUND', req.parsed.pathname);
       res.status = 404;
       res.statusMessage = 'Not Found';
