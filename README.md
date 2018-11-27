@@ -3,8 +3,6 @@
 
 ## Submission 
 
-https://travis-ci.org/tamarushin/08-rest.svg?branch=master
-https://dashboard.heroku.com/apps/o8-rest/deploy/github
-https://github.com/tamarushin/08-rest/pull/1
+[![Build Status](https://travis-ci.com/tamarushin/08-rest.svg?branch=master)](https://travis-ci.com/tamarushin/08-rest)
 
 
